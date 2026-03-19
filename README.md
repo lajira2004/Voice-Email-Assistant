@@ -23,7 +23,7 @@ A Python-based voice-controlled email assistant that allows users to send, read,
 - Prevents unauthorized access
 
 # Objective
-To provide an accessible and efficient email management system using voice commands, reducing dependency on traditional input devices.
+-To provide an accessible and efficient email management system using voice commands, reducing dependency on traditional input devices.
 
 # Future Scope
 - Voice biometric authentication  
@@ -31,5 +31,5 @@ To provide an accessible and efficient email management system using voice comma
 - Integration with mobile apps  
 - Multi-language support
 
-  # Note
-  Make sure to use a **Gmail App Password** instead of your actual password for security.
+# Note
+- Make sure to use a **Gmail App Password** instead of your actual password for security.
